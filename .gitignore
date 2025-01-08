@@ -1,0 +1,24 @@
+# Byte-compiled / compiled files
+*.pyc
+__pycache__/
+
+# Virtual environment folders
+.env/
+venv/
+env/
+
+# Ignore .env file
+.env
+
+# Ignore json files
+*.json
+
+# Ignore gservice account
+torage-admin@rag-question-answering-system.iam.gserviceaccount.com
+
+*.pkl
+
+# IDE/project-specific files
+*.idea/
+*.vscode/
+*.DS_Store

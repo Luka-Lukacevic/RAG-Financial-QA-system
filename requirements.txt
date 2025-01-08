@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.3
+urllib3==1.26.16
+requests==2.31.0
+
+google-cloud-aiplatform==1.62.0
+langchain==0.2.14
+langchain-google-vertexai==1.0.8
